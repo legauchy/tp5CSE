@@ -1,0 +1,23 @@
+Gauchy Anthony
+Lefevre Henry
+
+1/Caractéristique de la machine
+================================
+
++	OS : ubuntu 14.04 32bits
++ Processeur : Intel Core i5-4210H CPU @ 2.90GHz. 4 coeur.
+
+
+2/Resutat des expériences, question 6
+=====================================
+
+Dans cette partie nous allons tenter de calculer l'accélération et l'efficacité d'un tri en fonction de différent paramètre :
+
++	nombre de thread
++ taille du vecteur
++	programme sur la machine
+
+Accélaration : temps-execution-sequentielle / temps-exec-multithread
+Efficacité : acceleration / 4 (4 coeur dans la machine)
+
+
